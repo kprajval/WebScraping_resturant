@@ -1,4 +1,4 @@
-#Web Scraping Project: Extracting Restaurant Data from Dineout
+<h1>Web Scraping Project: Extracting Restaurant Data from Dineout</h1>
 
 
 <h2>Overview</h2>
